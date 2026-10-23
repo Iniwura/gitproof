@@ -1,0 +1,8 @@
+{
+  "contract_name": "GitProof",
+  "contract_address": "0x99Bc53CaE232fB18C54c35F2a792fCA9CFb5bE79",
+  "deployment_tx": "0x3a4a424ac7b845c9297e688a9ce963c9cee9685ec23a0d861bf6a604edcb13dc",
+  "network": "studionet",
+  "deployer": "0x5f9B1121a4599466425F28092c6B35F1c8CFF964",
+  "status": "ACCEPTED"
+}
