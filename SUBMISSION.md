@@ -3,10 +3,13 @@
 ## Project Information
 - **Project Name:** GitProof
 - **Tagline:** Autonomous GitHub Issue & Milestone Bounty Protocol on GenLayer
+- **Live Production URL:** https://frontend-five-orcin-98.vercel.app
+- **GitHub Repository:** https://github.com/Iniwura/gitproof
 - **Category:** Developer Tooling / B2B Web3 Infrastructure
 - **Live Deployed Contract (Studionet):** `0x99Bc53CaE232fB18C54c35F2a792fCA9CFb5bE79`
 - **Chain ID:** `61997` (`studionet`)
 - **Deployment Transaction:** `0x3a4a424ac7b845c9297e688a9ce963c9cee9685ec23a0d861bf6a604edcb13dc`
+- **Test Suite Status:** 5/5 passed (100% Green in 0.39s)
 
 ---
 
